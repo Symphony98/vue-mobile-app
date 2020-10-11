@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgba(229, 229, 229, 1);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+fieldset, p, h1, h2, h3, h4, h5, h6 table, tr, td, ul, li {
+    margin: 0;
+    padding: 0;
+}

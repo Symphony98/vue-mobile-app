@@ -1,0 +1,27 @@
+.button {
+    width: 365px;
+    height: 52px;
+}
+
+.van-goods-action .van-goods-action-icon__icon {
+    width: 3rem !important;
+}
+
+.van-icon-chat-o {
+    /* height: 20px !important; */
+}
+
+.van-icon-chat-o::before {
+    width: 30px;
+    height: 30px;
+}
+
+.van-icon-shop-o::before {
+    width: 30px;
+    height: 30px;
+}
+
+.van-button{
+    height: 80% !important;
+    font-size: 30px !important;
+}
